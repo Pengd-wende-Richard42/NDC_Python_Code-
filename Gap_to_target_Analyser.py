@@ -6,7 +6,7 @@ import geopandas as gpd
 from matplotlib.colors import TwoSlopeNorm
 import matplotlib.patches as mpatches
 
-"""
+
 # =========================================================
 # 0. PATHS
 # =========================================================
@@ -846,7 +846,7 @@ plot_top_bottom_feasibility(
     trim_quantile=0.90
 )
 
-"""
+
 from pathlib import Path
 import numpy as np
 import pandas as pd

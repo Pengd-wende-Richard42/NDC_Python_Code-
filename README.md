@@ -150,6 +150,11 @@ The project generates:
 * Policy analysis figures
 * Stata panel databases on 144 countries from 1997 to 2024
 
+## Copyright
+
+© 2026 NIKIEMA Pengd Wende Richard — All rights reserved.
+
+
 
 ```
 ```
