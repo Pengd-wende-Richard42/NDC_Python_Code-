@@ -1,3 +1,11 @@
+
+<p align="center">
+  <img src="assets/codebook_cover.png" width="700">
+</p>
+
+
+
+
 # Project Structure
 
 ```text
