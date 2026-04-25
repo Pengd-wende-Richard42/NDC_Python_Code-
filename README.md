@@ -25,7 +25,7 @@ Coverage:
 # Methodological Framework
 
 <p align="center">
-  <img src="assets/Intuition.png" width="1000"/>
+  <img src="Graphs/Intuition.png" width="1000"/>
 </p>
 
 ## Intuition of the Gap-to-Target and Feasibility Indicators
@@ -48,6 +48,39 @@ The feasibility indicator compares the observed annual emissions reduction with 
 | < 0 | Emissions are increasing (divergence from target) |
 
 This framework provides a transparent and operational way to evaluate whether countries are effectively aligning their realized emissions trajectories with their climate commitments under the Kyoto Protocol and successive NDC cycles.
+
+---
+
+# Data Availability Notice
+
+## Restricted Data Access Pending Peer Review
+
+The complete harmonized dataset is currently not publicly released.
+
+At this stage, only the methodological framework, analytical pipeline, and source code are made publicly available in order to ensure transparency, reproducibility, and methodological scrutiny.
+
+The public release of the full dataset is temporarily restricted for publication-related reasons while the associated research work undergoes peer review and academic evaluation.
+
+This precaution is intended to:
+- preserve the integrity of the scientific publication process,
+- avoid premature circulation of unpublished research outputs,
+- and ensure consistency between the final published article and the disseminated dataset.
+
+The repository nevertheless provides:
+- the complete methodological framework,
+- the data construction logic,
+- the harmonization procedures,
+- the analytical scripts,
+- and the visualization pipeline used to construct the indicators.
+
+The full harmonized database, documentation, and supplementary materials are expected to be released following the completion of the peer-review and publication process.
+
+For academic collaborations, replication requests, or research inquiries, please contact:
+
+**NIKIEMA Pengd Wende Richard**  
+Université Clermont Auvergne  
+Climate Finance Researcher  
+📧 P-Wende_Richard.NIKIEMA@doctorant.uca.fr
 
 ---
 
