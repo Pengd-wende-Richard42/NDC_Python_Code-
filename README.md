@@ -25,7 +25,7 @@ Coverage:
 # Methodological Framework
 
 <p align="center">
-  <img src="Graphs/Intuition.png" width="1000"/>
+  <img src="assets/Intuition.png" width="1000"/>
 </p>
 
 ## Intuition of the Gap-to-Target and Feasibility Indicators
